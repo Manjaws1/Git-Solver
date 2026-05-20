@@ -1,6 +1,6 @@
 # DevOps Foundations
 
-A comprehensive guide to understanding, implementing, and mastering DevOps principles, practices, and tools.
+A comprehensive guide to understanding, implementing, and mastering DevOps principles, practices, and tools
 
 ## What is DevOps?
 
