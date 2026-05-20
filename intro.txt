@@ -28,5 +28,5 @@ DevOps is a cultural and professional movement that bridges the gap between soft
 * Containerization: Docker, Podman
 * Orchestration: Kubernetes (K8s), OpenShift
 * Infrastructure as Code (IaC): Terraform, OpenTofu, Ansible
-* Monitoring & Observability: Prometheus, Grafana, ELK Stack, Datadog.
+* Monitoring & Observability: Prometheus, Grafana, ELK Stack, Datadog
 
