@@ -30,3 +30,7 @@ DevOps is a cultural and professional movement that bridges the gap between soft
 * Infrastructure as Code (IaC): Terraform, OpenTofu, Ansible
 * Monitoring & Observability: Prometheus, Grafana, ELK Stack, Datadog
 
+Getting Started
+To explore the practical labs included in this repository:
+Clone the repository: git clone ...
+Follow the local README.md instructions within that folder to boot up your environment.
