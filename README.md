@@ -1,0 +1,35 @@
+# DevOps Foundations
+
+A comprehensive guide to understanding, implementing, and mastering DevOps principles, practices, and tools.
+
+## What is DevOps?
+
+DevOps is a cultural and professional movement that bridges the gap between software development (Dev) and IT operations (Ops). It focuses on automation, continuous integration, and rapid delivery to improve software quality and speed to market.
+
+## Core Pillars (CALMS Framework)
+
+* **Culture** – Fostering collaboration, shared responsibility, and open communication between teams.
+* **Automation** – Eliminating manual tasks through code to ensure speed and consistency.
+* **Lean** – Eliminating waste, working in small batches, and focusing on continuous value delivery.
+* **Measurement** – Tracking performance metrics like deployment frequency and error rates.
+* **Sharing** – Openly communicating successes, failures, and lessons learned across organization boundaries.
+
+## The DevOps Lifecycle
+
+1. **Plan** – Define project requirements, design, and track progress using Agile methodologies.
+2. **Code** – Develop application software and write infrastructure scripts using Git version control.
+3. **Build** – Compile source code, manage dependencies, and create artifacts or Docker images.
+4. **Test** – Execute automated testing (unit, integration, security) to ensure code quality.
+5. **Release** – Manage deployment schedules, staging environments, and change approvals.
+6. **Deploy** – Push built artifacts into production environments automatically using continuous delivery tools.
+7. **Operate** – Maintain system infrastructure, scale resources, and manage configuration updates.
+8. **Monitor** – Track system performance, user experience, and log errors to trigger feedback loops.
+
+## Common Toolchain
+
+* **Version Control:** Git, GitHub, GitLab, Bitbucket
+* **CI/CD Automation:** Jenkins, GitLab CI, GitHub Actions, ArgoCD
+* **Containerization:** Docker, Podman
+* **Orchestration:** Kubernetes (K8s), OpenShift
+* **Infrastructure as Code (IaC):** Terraform, OpenTofu, Ansible
+* **Monitoring & Observability:** Prometheus, Grafana, ELK Stack, Datadog
